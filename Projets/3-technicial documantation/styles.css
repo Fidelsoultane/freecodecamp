@@ -12,18 +12,7 @@ html {
     }
   h1 { text-align: center;}
     
-   @media screen and (max-width: 600px) {
-    #navbar {
-      width: 5.5vw;
-    }
-    #navbar-title {
-      font: 16px;
-    }
-    .nav-link {
-      font: 14px;
-    }
-  }
-  
+   
   #navbar {
     position: fixed;
     width: 15 vw;
