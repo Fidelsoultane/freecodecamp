@@ -25,11 +25,12 @@ html {
     margin-right: 2em;
     line-height: 60px;}
   
-    #navbar-header {
-    font-size: 20px;
+    .navbar-header {
+    font-size: 30px;
     justify-content: center;
     padding-top: 0;
     font: 16px;
+    line-height:30px;
   }
   
   .nav-link {
