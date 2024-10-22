@@ -10,7 +10,8 @@ html {
     font-size: 24px; 
     padding-top: 1.5em;
     }
-  h1 { text-align: center;}
+  h1 { text-align: center;
+  background-color: #0e3f5c;}
     
    
   #navbar {
@@ -54,16 +55,6 @@ html {
   p {
     padding-left: 1em;
     justify-content: center;
-  }
-  code{
-    display: inline-block;
-    color: #0e3f5c;
-    background-color: rgb(211,211,211, 0.8);
-    border: solid rgb(211,211,211);
-    padding: 0.5em 1em;
-    font-weight: bold;
-    font-size: 14px;
-    margin: 0 auto;
   }
 
   #type { color:black;
