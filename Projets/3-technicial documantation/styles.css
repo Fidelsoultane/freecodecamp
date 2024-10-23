@@ -91,7 +91,8 @@ footer {
   font-family: Arial, sans-serif;
 }
 
-.note .icon {
+.note::before {
+  content: "\2139";
   background-color: #1a57b8;
   color: white;
   font-weight: bold;
