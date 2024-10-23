@@ -1,29 +1,39 @@
 html {
-    display: block;
     font-family: sans-serif;
-  justify-content: center;
     width: 100%;
-    height: 100%;}
+    height: 100%;
+  margin: 0;
+padding: 0;}
+
+    body { height: 100%;
+      display: flex; 
+      flex-direction: column;
+      }
+
+    #main-doc { flex: 1;
+      margin-left: 15vw;
+    padding-top: 20px;}
   
-  header {
+  header { display: flex;
     font-weight: bold;
     font-size: 24px; 
     padding-top: 1.5em;
     }
   h1 { text-align: center;
-  background-color: #0e3f5c;}
+  background-color: #0e3f5c;
+color: white;}
     
    
   #navbar {
     position: fixed;
-    width: 15 vw;
+    width: 15vw;
     height: 100%;
     top: 0;
     left: 0;
     padding: 1em;
     background: #8bcbc6;
-    margin-right: 2em;
-    line-height: 60px;}
+    box-sizing: border-box;
+    line-height: 40px;}
   
     .navbar-header {
     font-size: 30px;
@@ -39,20 +49,13 @@ html {
     font-size: 12px;
     margin: 0;
     padding: 0;
+    margin-top: 30px;
   }
   
   .nav-link:hover {
-    color: #c6e5e3;
+    color: #ff8000;
   }
-  main{ display:block;
-    position: absolute;
-    margin-left: 10em;
-    margin-right: 1em;
-    height: 100%;
-    top: 0;
-    left: 10vw;
-    padding: 1em;
-  }
+  
   p {
     padding-left: 1em;
     justify-content: center;
@@ -61,4 +64,20 @@ html {
   #type { color:black;
   font-size: 18px;
 background-color: aquamarine;}
-  
+
+.footer-content { display: flex;
+  justify-content: center; 
+  align-items: center;
+text-align: center;
+}
+footer {
+  position: relative; 
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  width: calc(100% - 15vw); 
+  margin-left: 15vw; 
+  box-sizing: border-box;
+  margin-top: auto; 
+}
