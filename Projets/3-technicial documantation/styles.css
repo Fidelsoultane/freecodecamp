@@ -82,25 +82,26 @@ footer {
   margin-top: auto; 
 }
 
-.note { width: 100%;
+.note { width: 50%;
   height: 100px;
-  background-color: #a9f9ec; 
+  background-color: #0085f21a; 
   border-left: 2px solid #0fa6f1; 
   padding: 10px;
   margin: 20px 0;
   font-family: Arial, sans-serif;
+  border-radius: 10px;
 }
 
 .note::before {
   content: "\2139";
-  background-color: #1a57b8;
+  background-color: #0085f2;
   color: white;
   font-weight: bold;
-  font-size: 15px;
-  width: 18px;
-  height: 18px;
+  font-size: 10px;
+  width: 15px;
+  height: 15px;
   text-align: center;
-  line-height: 18px;
+  line-height: 15px;
   border-radius: 50%;
   margin-right: 15px;
   font-family: Arial, sans-serif;
