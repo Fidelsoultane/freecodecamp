@@ -21,7 +21,8 @@ padding: 0;}
     }
   h1 { text-align: center;
   background-color: #0e3f5c;
-color: white;}
+color: white;
+}
     
    
   #navbar {
@@ -108,3 +109,5 @@ footer {
   display: inline;
   float: left;
 }
+
+img {margin-left:  50%;}
