@@ -13,50 +13,9 @@
     header h1 { font-size: 2rem;
     margin-bottom: 10px;
     }
-            #profile-link {
-                display: inline-block;
-                margin: 20px 0;
-                padding: 10px 20px;
-                background-color: #333;
-                color: white;
-                border-radius: 5px;
-            }
-            #profile-link:hover { color: #31EC56;}
+
+    header a:hover { color: #e60808;}
     
-         /* Style pour la barre de navigation */
-            #navbar {
-                position: fixed; /* Rendre le navbar fixe */
-                top: 0; /* Positionner en haut de la page */
-                left: 0; 
-                width: 100%; /* Prendre toute la largeur */
-                background-color: #333; /* Couleur de fond */
-                color: white; /* Couleur du texte */
-                z-index: 1000; /* Assurez-vous qu'il soit au-dessus des autres éléments */
-                padding: 15px 0; /* Espacement vertical */
-            }
-    
-            /* Style pour les éléments de la liste de navigation */
-            #navbar ul {
-                list-style: none; /* Supprimer les puces */
-                margin: 0; /* Supprimer la marge par défaut */
-                padding: 0; /* Supprimer le padding par défaut */
-                display: flex; /* Aligner les éléments horizontalement */
-                justify-content: center; /* Centrer les éléments */
-            }
-    
-            /* Style pour les liens de navigation */
-            .nav-link {
-                color: white; /* Couleur des liens */
-                text-decoration: none; /* Supprimer le soulignement */
-                margin: 0 15px; /* Espacement horizontal entre les liens */
-                padding: 10px; /* Espacement autour des liens */
-            }
-    
-            /* Style au survol des liens */
-            .nav-link:hover {
-                background-color: #555; /* Couleur de fond au survol */
-                border-radius: 5px; /* Arrondir les coins */
-            }
     #about { padding: 50px 20px;
     background-color: #e9ecef;
     text-align: center;}
