@@ -34,6 +34,8 @@ function toRoman(num) {
 
     if (isNaN(num)) {
         output.textContent = "Please enter a valid number";
+    } else if (!Number.isInteger(num)) {
+        output.textContent = "Veuillez entrer uniquement des nombres entiers.";
     } else if (num < 1) {
         output.textContent = "Please enter a number greater than or equal to 1";
     } else if (num >= 4000) {
