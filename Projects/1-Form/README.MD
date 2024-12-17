@@ -2,11 +2,13 @@ Ce projet est un formulaire interactif permettant aux utilisateurs de saisir des
 L'interface est développée en HTML5 et CSS3, avec des ajouts de JavaScript pour la validation des champs en temps réel.
 
 1- Fonctionnalités ✨
+
 ✅ Saisie d'informations : Nom, Email, Numéro de téléphone, Message, etc.
 ✅ Validation en temps réel : Vérification des champs vides, adresses email incorrectes, etc.
 ✅ Notifications visuelles : Messages d'erreur ou de confirmation.
 
 2- Technologies Utilisées 🛠️
+
 HTML5 : Structure du formulaire.
 CSS3 : Mise en forme et animations.
 
