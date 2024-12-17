@@ -25,4 +25,5 @@ git clone https://github.com/Fidelsoultane/freecodecamp/new/main/Projects/2-trib
 Technologies utilisées
 
 HTML5 : Structure de la page.
+
 CSS3 (optionnel) : Design et styles.
