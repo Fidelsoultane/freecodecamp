@@ -12,6 +12,7 @@ CSS3 : Mise en forme et animations.
 
 3- Installation 🚀
 A- Clonez ce projet via Git :
+
 git clone https://github.comFidelsoultane/freecodecamp/new/main/Projects/1-Form.
 
 B-  Ouvrez le fichier index.html dans votre navigateur.
