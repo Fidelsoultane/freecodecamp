@@ -29,7 +29,7 @@ function toRoman(num) {
  document.getElementById('convert-btn').addEventListener('click', () => {
     const input = document.getElementById('number');
     const output = document.getElementById('output');
-    const num = parseInt(input.value.trim());
+    const num = parseFloat(input.value.trim());
 
 
     if (isNaN(num)) {
