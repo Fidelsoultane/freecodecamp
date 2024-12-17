@@ -13,6 +13,7 @@ Le fichier index.html contient :
 Fichiers inclus
 
 1- index.html : Page principale contenant le contenu HTML.
+
 2- styles.css (optionnel) : Feuille de style pour améliorer l'apparence de la page (à personnaliser selon le besoin).
 
 Comment exécuter le projet
