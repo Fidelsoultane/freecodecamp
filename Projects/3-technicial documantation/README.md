@@ -5,11 +5,11 @@ Il présente les rôles, objectifs, instruments et types de politique monétaire
 
 Fonctionnalités Principales
 
-Structure claire :
+1- Structure claire :
 
 Navigation facile grâce à une barre latérale (navbar) qui permet d'accéder directement aux différentes sections.
 
-Sections détaillées :
+2- Sections détaillées :
 
 Chaque aspect de la politique monétaire est abordé dans une section dédiée :
 
@@ -19,12 +19,12 @@ Objectifs de la politique monétaire
 Instruments de la politique monétaire
 Types de politiques monétaires
 
-Navigation interne et externe :
+3- Navigation interne et externe :
 
 Liens pour naviguer facilement entre les sections de la page.
 Un lien vers un document externe complémentaire pour approfondir le sujet.
 
-Accessibilité et sémantique HTML :
+4- Accessibilité et sémantique HTML :
 
 Utilisation des balises HTML structurées (<nav>, <section>, <header>, <footer>).
 Ajout d’attributs pour la lisibilité et l’accessibilité (comme alt pour les images et des abréviations avec <abbr>).
@@ -38,28 +38,28 @@ styles.css (optionnel) : Un fichier de style qui peut être ajouté pour personn
 
 Organisation des Sections
 
-Introduction
+1- Introduction
 
 Présentation générale de la politique monétaire.
 Importance et contexte économique.
 
-Rôle des banques centrales
+2- Rôle des banques centrales
 
 Explication de l'impact des banques centrales dans l'économie.
 
-Objectifs de la politique monétaire
+3- Objectifs de la politique monétaire
 
 Stabilité des prix, stabilité financière et gestion des crises économiques.
 
-Instruments de la politique monétaire
+4- Instruments de la politique monétaire
 
 Taux d'intérêt, réserves obligatoires, facilités de prêt.
 
-Types de politiques monétaires
+5- Types de politiques monétaires
 
 Expansionniste, restrictive et neutre.
 
-Références
+6- Références
 
 Liens vers des ressources externes pour approfondir le sujet.
 
